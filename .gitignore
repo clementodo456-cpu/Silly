@@ -1,0 +1,23 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Secret & Environment files
+.env
+
+# Temporary conversion directory
+temp/
+downloads/
+*.tmp
+
+# System & Editor files
+.DS_Store
+.vscode/
+.idea/
